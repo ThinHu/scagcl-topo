@@ -35,3 +35,9 @@ This project implements an Adversarial Graph Contrastive Learning (scAGCL) frame
 Integrating the topology signature loss yields measurable improvements in clustering performance. On the tested dataset (`QS_Diaphragm`):
 * Without Topology Loss: ARI = 0.985, NMI = 0.971
 * With Topology Loss: ARI = 0.989, NMI = 0.977
+
+## Acknowledgements
+
+This project builds upon the foundational work and codebase of the scAGCL framework. We would like to express our gratitude to the authors and contributors of the original repository:
+
+* [levinhcntt/scAGCL](https://github.com/levinhcntt/scAGCL.git)
